@@ -1,6 +1,6 @@
 import 'dart:ffi';
 
-import 'kalıtım_çokbiçimlilik.dart';
+import '../kalitim/kalıtım_çokbiçimlilik.dart';
 
 void main(List<String> args) {
 //Sekil s1 =Sekil(); //abstract classlardan nesne oluşturamayız.
